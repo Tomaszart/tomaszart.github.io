@@ -1,2 +1,2 @@
-# tomaszart.github.io
+https://tomaszart.github.io/
 my unfinished personal web page
